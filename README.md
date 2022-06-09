@@ -2,7 +2,7 @@
 
 This is a signal Modulation Plotter Script using python.
 
-a time and frequency domain plot is implemented for each of the following Modulation Techniques:
+a time and frequency domain plot is implemented for each of the following Modulation Techniques: <br/>
 [1] DSB-LC <br/>
 [2] DSB-SC <br/>
 [3] SSB <br/>
