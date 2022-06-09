@@ -14,3 +14,5 @@ pip install matplotlib
 
 ## To install scipy
 pip install scipy
+
+you are provided with 2 demo files for plotting showing how to plot a simple graph with slight touches to change the styles.
